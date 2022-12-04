@@ -1,0 +1,11 @@
+C:/Users/Diego/Desktop/VisualStudio/apps/movies_app/movies_app/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/Diego/Desktop/VisualStudio/apps/movies_app/movies_app/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/Diego/Desktop/VisualStudio/apps/movies_app/movies_app/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/Diego/Desktop/VisualStudio/apps/movies_app/movies_app/build/windows/runner/Debug/data/flutter_assets/assets/loading.gif
+C:/Users/Diego/Desktop/VisualStudio/apps/movies_app/movies_app/build/windows/runner/Debug/data/flutter_assets/assets/no-image.jpg
+C:/Users/Diego/Desktop/VisualStudio/apps/movies_app/movies_app/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/Diego/Desktop/VisualStudio/apps/movies_app/movies_app/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/Diego/Desktop/VisualStudio/apps/movies_app/movies_app/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/Diego/Desktop/VisualStudio/apps/movies_app/movies_app/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/Diego/Desktop/VisualStudio/apps/movies_app/movies_app/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/Diego/Desktop/VisualStudio/apps/movies_app/movies_app/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

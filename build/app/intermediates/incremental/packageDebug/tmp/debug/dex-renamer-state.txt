@@ -1,0 +1,4 @@
+#Sat Dec 03 23:06:03 CET 2022
+base.0=C\:\\Users\\Diego\\Desktop\\VisualStudio\\apps\\movies_app\\movies_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,10 @@
+^C:\USERS\DIEGO\DESKTOP\VISUALSTUDIO\APPS\MOVIES_APP\MOVIES_APP\BUILD\WINDOWS\CMAKEFILES\137AEC164A279929B947742D9F1BF4E7\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,10 @@
+^C:\USERS\DIEGO\DESKTOP\VISUALSTUDIO\APPS\MOVIES_APP\MOVIES_APP\BUILD\WINDOWS\CMAKEFILES\137AEC164A279929B947742D9F1BF4E7\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Diego/Desktop/VisualStudio/apps/movies_app/movies_app/windows -BC:/Users/Diego/Desktop/VisualStudio/apps/movies_app/movies_app/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Diego/Desktop/VisualStudio/apps/movies_app/movies_app/build/windows/movies_app.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
